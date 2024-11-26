@@ -40,7 +40,7 @@
       Project: <a href="https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS">Calculator Using Windows Forms</a>
     </div>
   </div>
-
+<br>
   <!-- .NET -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" style="margin-right: 10px;" />
@@ -50,7 +50,7 @@
       Project: <a href="https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET">Login Form in ASP.NET</a>
     </div>
   </div>
-
+<br>
   <!-- .NET Core -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" style="margin-right: 10px;" />
@@ -60,7 +60,7 @@
       Projects: <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">Student Details Web API</a>, <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">SQL Server Integration</a>
     </div>
   </div>
-
+<br>
   <!-- Java -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 10px;" />
@@ -70,7 +70,7 @@
       Project: <a href="https://github.com/abdulfaridh/Java-Basics">Java Basics</a>
     </div>
   </div>
-
+<br>
   <!-- HTML & CSS -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 10px;" />
@@ -83,7 +83,7 @@
   </div>
 </div>
   
-
+<br>
 
 
 
