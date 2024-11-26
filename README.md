@@ -90,10 +90,7 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 ## 😄 Fun Fact
 
 "I can write cleaner code faster than my coffee cools down!" ☕️
-
----
-
-## 🎉 Fun with GIFs
+<br>
 
 <div align="center">
   <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
