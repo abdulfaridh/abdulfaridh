@@ -54,7 +54,8 @@
 
 <br clear="both">
 
-<img src="![Snake animation](https://raw.githubusercontent.com/abdulfaridh/AKF/output/snake.svg)
-" alt="Snake animation" />
+### Snake Animation
+
+[![Snake animation](https://raw.githubusercontent.com/abdulfaridh/AKF/output/snake.svg)](https://github.com/abdulfaridh/AKF)
 
 ###
