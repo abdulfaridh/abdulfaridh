@@ -1,10 +1,12 @@
 name: Generate snake animation
 
+# Example of a minor change
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *" # Changed to standard cron example
 
   workflow_dispatch:
+
 
   push:
     branches:
