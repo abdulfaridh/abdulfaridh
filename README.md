@@ -21,14 +21,10 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 ## 💻 Tech Stack
 
 <p align="center">
-  <!-- .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
   <!-- .NET Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <!-- CSS -->
@@ -42,19 +38,29 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 ## 📂 Pinned Projects
 
 ### **.NET & C# Projects**
-- [LoginForm-in-ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET): A login form built using **ASP.NET** and **C#**.
+
+- [LoginForm-in-ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET): 
+  A **login form** built using **ASP.NET** and **C#**. The project demonstrates the process of creating user authentication with a login page and handling user sessions.
 
 ### **Web API Projects**
-- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI): A **Web API** to manage student details, built with **.NET Core** and **SQL Server**.
+
+- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI):  
+  A **Web API** developed using **.NET Core** to manage student details. It allows users to perform CRUD operations on student data, utilizing **SQL Server** for database management and API routes for interaction.
 
 ### **Java Projects**
-- [Java-Basics](https://github.com/abdulfaridh/Java-Basics): A collection of basic **Java** projects to demonstrate fundamental concepts.
+
+- [Java-Basics](https://github.com/abdulfaridh/Java-Basics):  
+  A collection of **Java** projects that cover basic concepts like data structures, control flow, and simple algorithms. The repository aims to help beginners learn the fundamentals of **Java** programming.
 
 ### **HTML & CSS Projects**
-- [personal-portfolio](https://github.com/abdulfaridh/personal-portfolio): My **personal portfolio** built using **HTML** and **CSS**.
+
+- [personal-portfolio](https://github.com/abdulfaridh/personal-portfolio):  
+  A **personal portfolio** built using **HTML** and **CSS** to showcase my skills, projects, and career. This simple yet elegant website acts as an introduction to my work and serves as a personal branding tool.
 
 ### **SQL Server Projects**
-- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI): Uses **SQL Server** for storing and querying student data.
+
+- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI):  
+  Uses **SQL Server** for storing and querying student data in a database. This **Web API** integrates with **SQL Server** to allow seamless interactions between the backend and the database, ensuring fast and reliable data access.
 
 ---
 
@@ -81,6 +87,7 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 
 ---
 
+## 🎉 Fun with GIFs
 
 <div align="center">
   <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -97,15 +104,17 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <!-- .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+  <!-- .NET Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
 </p>
 
 ---
 
 ### Key Features:
 1. **Tech Stack:** Clear representation of the technologies I use with badges.
-2. **Pinned Projects:** Showcase of my most relevant repositories.
+2. **Pinned Projects:** Showcase of my most relevant repositories with descriptions.
 3. **GitHub Stats:** Embedded GitHub stats for activity insights.
 4. **GIF Fun:** A playful wink GIF to add a personal touch to the README.
 
