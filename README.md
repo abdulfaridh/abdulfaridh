@@ -39,9 +39,12 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Microsoft%20Visual%20Studio&logo=visualstudio&label=&color=5C2D91&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visual studio logo" />
+  <!-- Visual Studio Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Visual_Studio_2019_logo.svg/800px-Visual_Studio_2019_logo.svg.png" height="35" alt="Visual Studio logo" />
+  <!-- GitHub Logo -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
+  <!-- Outlook Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Outlook.com_Icon_2013.svg" height="35" alt="Outlook logo" />
 </div>
 
 ###
