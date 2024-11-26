@@ -46,14 +46,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="snake" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulfaridh/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/abdulfaridh/abdulfaridh/output/snake.svg" alt="Snake animation" />
 
 ###
