@@ -20,7 +20,7 @@
 
 ---
 <!-- Girl Wink GIF placed here -->
-<p align="right">
+<p align="center">
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </p>
 
