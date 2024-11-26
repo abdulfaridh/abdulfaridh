@@ -6,92 +6,41 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulfaridh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulfaridh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+### Table of Contents
 
----
-
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Snake animation" />
+- [Tech Stack & Projects](#tech-stack--projects)
+  - [C#](#c)
+  - [.NET](#net)
+  - [.NET Core & SQL Server](#net-core--sql-server)
+  - [Java](#java)
+  - [HTML & CSS](#html--css)
+- [Tools & Platforms](#tools--platforms)
+- [Social Links](#social-links)
+- [Snake Animation](#snake-animation)
 
 ---
 
 ### Tech Stack & Projects
 
-<p align="center">
-  <!-- JavaScript Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-    <br />
-    <strong>Project:</strong> API for <em>E-commerce App</em> <br />
-    <strong>Usage:</strong> JavaScript was used to handle asynchronous API requests.
-  </div>
-  <br />
+#### **C#**
+- **Project:** [Calculator Using Windows Forms in C#](https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS)  
+  **Usage:** C# was used to build a simple calculator application with a Windows Forms interface, showcasing fundamental programming concepts and UI design.
 
-  <!-- HTML5 Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-    <br />
-    <strong>Project:</strong> Frontend for <em>Weather Dashboard</em> <br />
-    <strong>Usage:</strong> HTML5 for building responsive webpage structure.
-  </div>
-  <br />
+#### **.NET**
+- **Project:** [Login Form in ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET)  
+  **Usage:** Built a login system using ASP.NET, integrating forms authentication and SQL Server for user data management.
 
-  <!-- CSS3 Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-    <br />
-    <strong>Project:</strong> Styling for <em>Weather Dashboard</em> <br />
-    <strong>Usage:</strong> CSS3 for creating a clean and responsive layout.
-  </div>
-  <br />
+#### **.NET Core & SQL Server**
+- **Project:** [Student Details Web API](https://github.com/abdulfaridh/StudentDetails-WEBAPI)  
+  **Usage:** Developed a RESTful API for managing student data with .NET Core, using SQL Server for persistent data storage, implementing CRUD operations and data validation.
 
-  <!-- C# Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-    <br />
-    <strong>Project:</strong> <em>Backend for E-commerce App</em> <br />
-    <strong>Usage:</strong> C# for backend development, building API services.
-  </div>
-  <br />
+#### **Java**
+- **Project:** [Java Basics](https://github.com/abdulfaridh/Java-Basics)  
+  **Usage:** A Java project demonstrating the basics of Java programming, including object-oriented principles and simple console-based applications.
 
-  <!-- .NET Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
-    <br />
-    <strong>Project:</strong> <em>Backend for Financial Management System</em> <br />
-    <strong>Usage:</strong> .NET for building API services and managing data flows.
-  </div>
-  <br />
-
-  <!-- SQL Server Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-    <br />
-    <strong>Project:</strong> <em>Database Management for Financial App</em> <br />
-    <strong>Usage:</strong> SQL Server for data storage and querying financial records.
-  </div>
-  <br />
-
-  <!-- MySQL Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-    <br />
-    <strong>Project:</strong> <em>Inventory System</em> <br />
-    <strong>Usage:</strong> MySQL for storing and querying product inventory data.
-  </div>
-  <br />
-
-  <!-- Java Project -->
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-    <br />
-    <strong>Project:</strong> <em>Payment Gateway Integration</em> <br />
-    <strong>Usage:</strong> Java for backend API integration with payment providers.
-  </div>
-  <br />
-</p>
+#### **HTML & CSS**
+- **Project:** [Personal Portfolio](https://github.com/abdulfaridh/personal-portfolio)  
+  **Usage:** A personal portfolio website built with HTML and CSS to showcase my skills, projects, and background.
 
 ---
 
@@ -127,4 +76,3 @@
 [![Snake animation](https://raw.githubusercontent.com/abdulfaridh/AKF/output/snake.svg)](https://github.com/abdulfaridh/AKF)
 
 ---
-
