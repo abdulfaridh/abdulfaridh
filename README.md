@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Abdul Kareem Faridh and I'm a Backend Developer from Movate Technologies</h2>
+<h2 align="left">Hi 👋! My name is Abdul Kareem Faridh and I'm a Backend Developer at Movate Technologies</h2>
+
+<p align="left">
+  I'm a backend developer with a strong focus on building robust web APIs and working with SQL Server databases. I specialize in creating scalable and efficient web services, optimizing database queries, and ensuring high-performance backend systems. I am passionate about backend technologies such as C#, .NET, Java, and SQL, and I focus on developing solutions that provide seamless experiences for users. Currently, I work at **Movate Technologies**, where I contribute to backend systems, design APIs, and work on database optimization to deliver high-quality solutions.
+</p>
 
 ###
 
