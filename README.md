@@ -24,60 +24,67 @@
   <img height="150" src="https://i.imgflip.com/65efzo.gif" />
 </p>
 
+---
 
 ###
 
-  
 ### Tech Stack & Projects
 
 <div align="center">
   <!-- C# -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" style="margin-right: 10px;"/>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" style="margin-right: 10px;" />
     <div>
       <strong>C#</strong><br />
+      A Windows Forms application that performs basic arithmetic operations.<br />
       Project: <a href="https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS">Calculator Using Windows Forms</a>
     </div>
   </div>
-  
+
   <!-- .NET -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" style="margin-right: 10px;"/>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" style="margin-right: 10px;" />
     <div>
       <strong>.NET</strong><br />
+      A login form application built with ASP.NET Web Forms for user authentication.<br />
       Project: <a href="https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET">Login Form in ASP.NET</a>
     </div>
   </div>
-  
+
   <!-- .NET Core -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" style="margin-right: 10px;"/>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" style="margin-right: 10px;" />
     <div>
       <strong>.NET Core</strong><br />
-      Projects: <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">Student Details Web API</a>, <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">SQL Server</a>
+      Web API for managing student records with database integration.<br />
+      Projects: <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">Student Details Web API</a>, <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">SQL Server Integration</a>
     </div>
   </div>
 
   <!-- Java -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 10px;"/>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 10px;" />
     <div>
       <strong>Java</strong><br />
+      A beginner's guide to Java covering core concepts and examples.<br />
       Project: <a href="https://github.com/abdulfaridh/Java-Basics">Java Basics</a>
     </div>
   </div>
 
   <!-- HTML & CSS -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" style="margin-right: 10px;"/>
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" style="margin-right: 10px;" />
     <div>
       <strong>HTML & CSS</strong><br />
+      A personal portfolio website showcasing my skills and projects.<br />
       Project: <a href="https://github.com/abdulfaridh/personal-portfolio">Personal Portfolio</a>
     </div>
   </div>
 </div>
   
+
+
 
 
 ---
