@@ -95,8 +95,10 @@
 ---
 
 <!-- Girl wink gif -->
-<p align="center">
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-</p>
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 ---
