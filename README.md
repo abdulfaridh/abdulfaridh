@@ -94,9 +94,9 @@
 
 ---
 
-<!-- Cute girl wink gif -->
+<!-- Girl wink gif -->
 <p align="center">
-  <img src="https://media.giphy.com/media/6h9A7t2fzKhQxZ8IZ1/giphy.gif" alt="Cute Girl Wink GIF" height="200" />
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 </p>
 
 ---
