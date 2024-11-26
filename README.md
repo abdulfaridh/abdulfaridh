@@ -1,134 +1,105 @@
-<h2 align="center" style="color: #4B0082;">Hi 👋! My name is Abdul Kareem Faridh, and I'm a Backend Developer at Movate Technologies</h2>
+# Hi 👋! I'm Abdul Kareem Faridh
 
-<p align="center" style="font-size: 18px; color: #666666;">
-  I'm a passionate backend developer specializing in web API creation, working with SQL Server databases, and optimizing queries. I focus on building scalable, high-performance web services, creating seamless experiences for users, and ensuring systems are efficient and maintainable. I have hands-on experience with technologies like C#, .NET, SQL Server, and Java. I currently work at <strong>Movate Technologies</strong>, where I contribute to backend system development, API design, and database optimization to deliver quality solutions.
-</p>
+## 👋 About Me
+
+Hi, I'm **Abdul Kareem Faridh**, a passionate **Backend Developer** at **Movate Technologies**.  
+I specialize in building robust and scalable **Web APIs** and working with **SQL Servers** to create seamless data-driven applications.  
+Currently, I am focused on enhancing my skills in **.NET**, **C#**, and **SQL** as I work on my ongoing project, [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI), a RESTful API built with .NET Core.
+
+---
+
+## 📝 Table of Contents
+
+- [About Me](#-about-me)
+- [My Contribution Graph](#-my-contribution-graph)
+- [Tech Stack](#-tech-stack)
+- [Pinned Projects](#-pinned-projects)
+- [GitHub Stats](#-github-stats)
+- [What I'm Working On](#-what-im-working-on)
+- [Fun with GIFs](#-fun-with-gifs)
 
 ---
 
-### Table of Contents
-
-- [Tech Stack & Projects](#tech-stack--projects)
-  - [C#](#c)
-  - [.NET](#net)
-  - [.NET Core & SQL Server](#net-core--sql-server)
-  - [Java](#java)
-  - [HTML & CSS](#html--css)
-- [GitHub Stats](#github-stats)
-- [Tools & Platforms](#tools--platforms)
-- [Social Links](#social-links)
-- [Snake Animation](#snake-animation)
-
----
-<!-- Girl Wink GIF placed here -->
-<p align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
-</p>
-
----
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulfaridh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulfaridh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
----
-
-### Tech Stack & Projects
+## 🌱 My Contribution Graph
 
 <div align="center">
-  <!-- C# -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" style="margin-right: 10px;" />
-    <div>
-      <strong>C#</strong><br />
-      A Windows Forms application that performs basic arithmetic operations.<br />
-      Project: <a href="https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS">Calculator Using Windows Forms</a>
-    </div>
-  </div>
-<br>
-  <!-- .NET -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" style="margin-right: 10px;" />
-    <div>
-      <strong>.NET</strong><br />
-      A login form application built with ASP.NET Web Forms for user authentication.<br />
-      Project: <a href="https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET">Login Form in ASP.NET</a>
-    </div>
-  </div>
-<br>
-  <!-- .NET Core -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" style="margin-right: 10px;" />
-    <div>
-      <strong>.NET Core</strong><br />
-      Web API for managing student records with database integration.<br />
-      Projects: <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">Student Details Web API</a>, <a href="https://github.com/abdulfaridh/StudentDetails-WEBAPI">SQL Server Integration</a>
-    </div>
-  </div>
-<br>
-  <!-- Java -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 10px;" />
-    <div>
-      <strong>Java</strong><br />
-      A beginner's guide to Java covering core concepts and examples.<br />
-      Project: <a href="https://github.com/abdulfaridh/Java-Basics">Java Basics</a>
-    </div>
-  </div>
-<br>
-  <!-- HTML & CSS -->
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 10px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" style="margin-right: 10px;" />
-    <div>
-      <strong>HTML & CSS</strong><br />
-      A personal portfolio website showcasing my skills and projects.<br />
-      Project: <a href="https://github.com/abdulfaridh/personal-portfolio">Personal Portfolio</a>
-    </div>
-  </div>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abdulfaridh&bg_color=1d1f21&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true">
 </div>
-  
-<br>
-
-
 
 ---
 
-### Tools & Platforms
+## 🛠️ Tech Stack
+
+### **.NET & C#**
+- [LoginForm-in-ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET) - A login form built using ASP.NET and C#.
+
+### **Web API**
+- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI) - A Web API for managing student details with .NET Core.
+
+### **Java**
+- [Java-Basics](https://github.com/abdulfaridh/Java-Basics) - Basic Java projects for foundational knowledge.
+
+### **HTML & CSS**
+- [personal-portfolio](https://github.com/abdulfaridh/personal-portfolio) - My personal portfolio built with HTML and CSS.
+
+### **SQL Server**
+- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI) - Utilizing SQL Server for storing and querying student data.
+
+---
+
+## 📂 Pinned Projects
+
+- [LoginForm-in-ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET) - A login form built using ASP.NET.
+- [StudentDetails-WEBAPI](https://github.com/abdulfaridh/StudentDetails-WEBAPI) - A Web API for managing student details.
+- [Java-Basics](https://github.com/abdulfaridh/Java-Basics) - A simple repository showcasing Java basics.
+- [personal-portfolio](https://github.com/abdulfaridh/personal-portfolio) - A portfolio showcasing my work and projects built using HTML and CSS.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulfaridh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulfaridh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- Enhancing the **StudentDetails-WEBAPI** to include authentication and authorization.
+- Optimizing SQL queries for better performance in **StudentDetails-WEBAPI**.
+- Learning advanced **.NET Core** features.
+
+---
+
+## 💡 Fun Fact
+
+"I can write cleaner code faster than my coffee cools down!" ☕️
+
+---
+
+## 😄 Fun with GIFs
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+---
+
+## 📈 Music Stats
+
+Coming soon - Check out my **Apple Music** username for my most played tracks! 🎶
+
+---
+
+## 📂 Tools & Platforms
 
 <p align="center">
   <!-- Visual Studio -->
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" style="margin-right: 20px;"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <!-- GitHub -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
-  <!--Microsoft-Sql-Server-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <!-- C# -->
+  <img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="C# logo" />
+  <!-- .NET -->
+  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt=".NET logo" />
 </p>
-
----
-
-### Social Links
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abdulfaridh/count.svg?" />
-</div>
-
----
-
-### Snake Animation
-
-[![Snake animation](https://raw.githubusercontent.com/abdulfaridh/AKF/output/snake.svg)](https://github.com/abdulfaridh/AKF)
-
----
-
-
-
----
