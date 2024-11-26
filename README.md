@@ -34,9 +34,8 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
   <!--JavaScript-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
- 
   <!-- GitHub -->
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </p>
 
 ---
