@@ -19,10 +19,11 @@
 - [Snake Animation](#snake-animation)
 
 ---
-<!-- Girl wink gif -->
-<div align="right">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<!-- Girl Wink GIF placed here -->
+<p align="right">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+</p>
+
 
 ###
 ### Tech Stack & Projects
