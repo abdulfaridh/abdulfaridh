@@ -29,20 +29,55 @@
 ### Tech Stack & Projects
 
 <div align="center">
-  <!-- C# logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <!-- .NET logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
-  <!-- .NET Core logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <!-- SQL Server logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <!-- Java logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <!-- HTML5 logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <!-- CSS3 logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <!-- C# -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" style="margin-right: 10px;"/>
+    <div>
+      <strong>C#</strong><br />
+      <em>Project:</em> [Calculator Using Windows Forms in C#](https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS)<br />
+      **Usage:** C# was used to build a simple calculator application with a Windows Forms interface, showcasing fundamental programming concepts and UI design.
+    </div>
+  </div>
+  
+  <!-- .NET -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" style="margin-right: 10px;"/>
+    <div>
+      <strong>.NET</strong><br />
+      <em>Project:</em> [Login Form in ASP.NET](https://github.com/abdulfaridh/LoginForm-in-ASP-DOT-NET)<br />
+      **Usage:** Built a login system using ASP.NET, integrating forms authentication and SQL Server for user data management.
+    </div>
+  </div>
+  
+  <!-- .NET Core -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" style="margin-right: 10px;"/>
+    <div>
+      <strong>.NET Core</strong><br />
+      <em>Project:</em> [Student Details Web API](https://github.com/abdulfaridh/StudentDetails-WEBAPI)<br />
+      **Usage:** Developed a RESTful API for managing student data with .NET Core, using SQL Server for persistent data storage, implementing CRUD operations and data validation.
+    </div>
+  </div>
+
+  <!-- Java -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" style="margin-right: 10px;"/>
+    <div>
+      <strong>Java</strong><br />
+      <em>Project:</em> [Java Basics](https://github.com/abdulfaridh/Java-Basics)<br />
+      **Usage:** A Java project demonstrating the basics of Java programming, including object-oriented principles and simple console-based applications.
+    </div>
+  </div>
+
+  <!-- HTML & CSS -->
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" style="margin-right: 10px;"/>
+    <div>
+      <strong>HTML & CSS</strong><br />
+      <em>Project:</em> [Personal Portfolio](https://github.com/abdulfaridh/personal-portfolio)<br />
+      **Usage:** A personal portfolio website built with HTML and CSS to showcase my skills, projects, and background.
+    </div>
+  </div>
 </div>
 
 #### **C#**
