@@ -96,6 +96,8 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" style="margin-right: 20px;"/>
   <!-- GitHub -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
+  <!--Microsoft-Sql-Server-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </p>
 
 ---
