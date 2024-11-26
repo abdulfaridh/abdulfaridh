@@ -22,6 +22,23 @@
 
 ### Tech Stack & Projects
 
+<div align="center">
+  <!-- C# logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <!-- .NET logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+  <!-- .NET Core logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
+  <!-- SQL Server logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <!-- Java logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <!-- HTML5 logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <!-- CSS3 logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+</div>
+
 #### **C#**
 - **Project:** [Calculator Using Windows Forms in C#](https://github.com/abdulfaridh/calculator-using-windows-forms-in-CS)  
   **Usage:** C# was used to build a simple calculator application with a Windows Forms interface, showcasing fundamental programming concepts and UI design.
@@ -74,5 +91,12 @@
 ### Snake Animation
 
 [![Snake animation](https://raw.githubusercontent.com/abdulfaridh/AKF/output/snake.svg)](https://github.com/abdulfaridh/AKF)
+
+---
+
+<!-- Cute girl wink gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/6h9A7t2fzKhQxZ8IZ1/giphy.gif" alt="Cute Girl Wink GIF" height="200" />
+</p>
 
 ---
