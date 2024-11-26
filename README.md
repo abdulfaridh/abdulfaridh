@@ -22,17 +22,19 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 
 <p align="center">
   <!-- .NET -->
-  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+  <!-- .NET Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
   <!-- C# -->
-  <img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="C# logo" />
-  <!-- Web API -->
-  <img src="https://img.shields.io/static/v1?message=WebAPI&logo=swagger&label=&color=25B7A0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Web API logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <!-- SQL Server -->
-  <img src="https://img.shields.io/static/v1?message=SQL%20Server&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
   <!-- GitHub -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
-  <!-- Visual Studio -->
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
 </p>
 
 ---
@@ -79,7 +81,6 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 
 ---
 
-## 🎉 Fun with GIFs
 
 <div align="center">
   <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -95,9 +96,9 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
   <!-- GitHub -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
   <!-- C# -->
-  <img src="https://img.shields.io/static/v1?message=C%23&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <!-- .NET -->
-  <img src="https://img.shields.io/static/v1?message=.NET&logo=dotnet&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
 </p>
 
 ---
