@@ -17,25 +17,80 @@
 
 ###
 
-### Tech Stack
+### Tech Stack & Projects
 
 <p align="left">
-  <!-- Javascript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <!-- .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
-  <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <!-- Javascript Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+    <br />
+    <strong>Project:</strong> API for <em>E-commerce App</em> <br />
+    <strong>Usage:</strong> JavaScript was used to handle asynchronous API requests.
+  </div>
+  <br />
+  
+  <!-- HTML5 Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+    <br />
+    <strong>Project:</strong> Frontend for <em>Weather Dashboard</em> <br />
+    <strong>Usage:</strong> HTML5 for building responsive webpage structure.
+  </div>
+  <br />
+
+  <!-- CSS3 Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+    <br />
+    <strong>Project:</strong> Styling for <em>Weather Dashboard</em> <br />
+    <strong>Usage:</strong> CSS3 for creating a clean and responsive layout.
+  </div>
+  <br />
+
+  <!-- C# Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+    <br />
+    <strong>Project:</strong> <em>Backend for E-commerce App</em> <br />
+    <strong>Usage:</strong> C# for backend development, building API services.
+  </div>
+  <br />
+
+  <!-- .NET Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
+    <br />
+    <strong>Project:</strong> <em>Backend for Financial Management System</em> <br />
+    <strong>Usage:</strong> .NET for building API services and managing data flows.
+  </div>
+  <br />
+
+  <!-- SQL Server Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+    <br />
+    <strong>Project:</strong> <em>Database Management for Financial App</em> <br />
+    <strong>Usage:</strong> SQL Server for data storage and querying financial records.
+  </div>
+  <br />
+
+  <!-- MySQL Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+    <br />
+    <strong>Project:</strong> <em>Inventory System</em> <br />
+    <strong>Usage:</strong> MySQL for storing and querying product inventory data.
+  </div>
+  <br />
+
+  <!-- Java Project -->
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+    <br />
+    <strong>Project:</strong> <em>Payment Gateway Integration</em> <br />
+    <strong>Usage:</strong> Java for backend API integration with payment providers.
+  </div>
+  <br />
 </p>
 
 ###
@@ -47,8 +102,6 @@
   <img src="https://img.icons8.com/ios/452/visual-studio.png" height="40" alt="Visual Studio logo" />
   <!-- GitHub -->
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
-  <!-- Visual Studio Code -->
-  <img src="https://img.icons8.com/ios/452/visual-studio-code-2019.png" height="40" alt="VS Code logo" />
 </p>
 
 ###
