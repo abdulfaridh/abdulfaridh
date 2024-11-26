@@ -120,4 +120,4 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 3. **GitHub Stats:** Embedded GitHub stats for activity insights.
 4. **GIF Fun:** A playful wink GIF to add a personal touch to the README.
 
-Feel free to copy this code and paste it directly into your `README.md` file. This version is clean, elegant, and provides a smooth user experience with good visual organization. Let me know if you need any further tweaks!
+
