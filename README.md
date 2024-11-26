@@ -104,7 +104,7 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
   <!-- Visual Studio -->
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio logo" />
   <!-- GitHub -->
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <!-- .NET Core -->
