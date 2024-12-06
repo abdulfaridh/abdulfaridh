@@ -87,6 +87,7 @@ Currently, I’m focusing on building robust backend solutions and enhancing my 
 - Enhancing the **StudentDetails-WEBAPI** to include user authentication and authorization.
 - Optimizing **SQL Server** queries for better performance in my web API project.
 - Building a **RESTful Web API** with **.NET Core**.
+- Also Learning **MS Azure**
 
 ---
 
